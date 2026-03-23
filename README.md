@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ---
 
 ## 🧑‍💻 About Me
-- 🌍 I'm based in Itahari, Nepal  
-- 🎓 IT & Computer Engineering Graduate  
+- 🌍 I'm based in Kathmandu, Nepal  
+- 🎓 BSc. CSIT Graduate  
 - 💡 Interested in building modern web apps  
-- 📫 Reach me at: **samarajyastha@gmail.com**
+- 📫 Reach me at: **amshuman789@gmail.com**
 
 ---
 
@@ -80,3 +80,14 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amshuman50&theme=radical" />
 </p>
+
+### 🌐 Connect with me:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+
+---
+
+### 📊 GitHub Stats:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
