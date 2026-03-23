@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ![Material UI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=mui)
 
 ### 🛠 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 <!--![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)-->
 
