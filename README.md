@@ -90,4 +90,4 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=amshuman50&show_icons=true&theme=tokyonight)
