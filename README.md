@@ -35,10 +35,15 @@ Here are some ideas to get you started:
 ## 🚀 Skills
 
 ### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -51,7 +56,7 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
+<!--![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)-->
 
 ---
 
