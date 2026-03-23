@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 ---
 
 ## 🌐 Connect with Me
-<a href="https://linkedin.com/in/amshu-maharjan-0857032a8/">
+<a href="https://linkedin.com/in/amshu-maharjan-0857032a8/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 
-<a href="https://facebook.com/amshu.maharjan">
+<a href="https://facebook.com/amshu.maharjan" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
 </a>
 
-<a href="https://instagram.com/amshumaharjan/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
+<a href="https://instagram.com/amshumaharjan/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram" />
 </a>
 
 ---
