@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-87CEEB?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=mui)
 
 ### 🛠 Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
