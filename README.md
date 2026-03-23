@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - 🎓 BSc. CSIT Graduate  
 - 💡 Interested in building modern web apps  
 - 📫 Reach me at: **amshuman789@gmail.com**
-- 🌐 Portfolio Website: [amshumanmaharjan.com.np](https://amshumanmaharjan.com.np)
+<!-- - 🌐 Portfolio Website: [amshumanmaharjan.com.np](https://amshumanmaharjan.com.np)-->
+- 🌐 Portfolio Website: <a href="https://amshumanmaharjan.com.np" target="_blank">amshumanmaharjan.com.np</a>
 
 ---
 
