@@ -46,17 +46,21 @@ Here are some ideas to get you started:
 </div>
 
 ### ⚛️ Frontend
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" />
+</div>
 
 ### 🛠 Backend & Tools
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 <!--![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)-->
+</div>
 
 ---
 
@@ -65,11 +69,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 
-<a href="https://facebook.com/YOUR_USERNAME">
+<a href="https://facebook.com/amshu.maharjan">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/amshumaharjan/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
 </a>
 
