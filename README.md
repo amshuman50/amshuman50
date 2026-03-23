@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://instagram.com/amshumaharjan/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" alt="Instagram" />
 </a>
 
 ---
