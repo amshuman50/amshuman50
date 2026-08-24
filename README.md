@@ -111,8 +111,6 @@ Here are some ideas to get you started:
 
 ---
 
----
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amshuman50&theme=radical" />
